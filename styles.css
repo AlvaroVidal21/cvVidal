@@ -1,0 +1,19 @@
+#Cabecera{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#Resumen{
+    margin: 0px auto;
+    text-align: justify;
+}
+
+
+#cuerpo{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 500px 500px;
+    align-items: start;
+}
+
